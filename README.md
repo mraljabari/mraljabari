@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mraljabari
-- 👀 I’m interested in Playing Football
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mraljabari.com
+- 👀 I’m interested in Playing Football & Hiking
+- 🌱 I’m currently learning Fullstack Programming
+- 💞️ I’m looking to collaborate on Youtube Channel @m.r.aljabari
+- 📫 How to reach me mraljabari.com, My IG: @m.r.aljabari
 
 <!---
 mraljabari/mraljabari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
